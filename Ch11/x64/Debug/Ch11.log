@@ -1,0 +1,6 @@
+﻿  TS11_03.c
+C:\project\C언어 일취월장\Ch11\TS11_03.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+C:\project\C언어 일취월장\Ch11\TS11_03.c(14,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) float *' 형식의 인수 1과(와) 충돌합니다.
+C:\project\C언어 일취월장\Ch11\TS11_03.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+C:\project\C언어 일취월장\Ch11\TS11_03.c(19,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) float *' 형식의 인수 1과(와) 충돌합니다.
+  Ch11.vcxproj -> C:\project\C언어 일취월장\Ch11\x64\Debug\Ch11.exe
